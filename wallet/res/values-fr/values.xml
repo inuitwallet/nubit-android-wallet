@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>NBT, 8 décimales</item>
+		<item>NBT, 6 décimales</item>
+		<item>NBT, 4 décimales</item>
+		<item>mNBT, 2 décimales</item>
+		<item>µNBT, 0 décimale</item>
+	</string-array>
+
+</resources>
